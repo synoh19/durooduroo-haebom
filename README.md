@@ -1,6 +1,4 @@
-# Roblox Convenience Store Social Learning MVP
-
-장애아동의 사회성 학습을 돕기 위한 Roblox 기반 편의점 미션 시뮬레이션 MVP입니다.
+장애아동의 사회성 학습을 돕기 위한 Roblox 기반 편의점 미션 시뮬레이션입니다.
 
 ## 프로젝트 목적
 
